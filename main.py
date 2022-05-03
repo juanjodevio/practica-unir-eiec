@@ -2,13 +2,11 @@
 License: Apache
 Organization: UNIR
 """
-
 import os
 import sys
 
 DEFAULT_FILENAME = "words.txt"
 DEFAULT_DUPLICATES = False
-
 
 def remove_duplicates_from_list(items):
     return list(set(items))
