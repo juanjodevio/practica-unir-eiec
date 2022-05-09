@@ -1,4 +1,0 @@
-green
-car
-double
-party
